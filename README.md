@@ -1,5 +1,6 @@
 fem-grunt-workflow
 ==================
+https://speakerdeck.com/dmosher/frontend-workflows-and-tooling
 
 A custom app workflow to teach people how to use Grunt.js
 
